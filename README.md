@@ -1,7 +1,7 @@
 # tugas-8-SBD-19.B1
 
 Koneksi Database Mysql Ke PHP Judul <b>"SISTEM AKADEMIK"</b>
-<p> ada 4 tabel : </p>
+<p> ada 3 tabel : </p>
 
 1. Tabel Mahasiswa
 2. Tabel Matakuliah
