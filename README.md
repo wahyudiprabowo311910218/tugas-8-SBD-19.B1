@@ -1,18 +1,21 @@
 # tugas-8-SBD-19.B1
 
 Koneksi Database Mysql Ke PHP Judul <b>"SISTEM AKADEMIK"</b>
-<p> ada 3 tabel : </p>
+<p> ada 4 tabel : </p>
 
-1. Tabel Mahasiswa
-2. Tabel Matakuliah
-3. Tabel Perkuliahan
+1. Tabel Dosen
+2. Tabel Mahasiswa
+3. Tabel Matakuliah
+4. Tabel Perkuliahan
 
+#Nip : nomor induk pegawai untuk patokan atau relasi ke tabel perkuliahan dan memberi nilai pada perkuliahan
 
 <h1><b>Desain Database</b></h1>
 
-![desain database](https://user-images.githubusercontent.com/85074523/120114003-05841580-c132-11eb-9ac6-d61510b8c391.JPG)
-
+![image](https://user-images.githubusercontent.com/85074523/120202058-fa38f480-c1da-11eb-9283-f510ee94827b.png)
 
 <h1><b>Screenshoot Homepage</b></h1>
 
-![image](https://user-images.githubusercontent.com/85074523/120114111-70355100-c132-11eb-91af-213c47e2927b.png)
+![image](https://user-images.githubusercontent.com/85074523/120202791-df1ab480-c1db-11eb-94f0-a4668fa76c58.png)
+
+![image](https://user-images.githubusercontent.com/85074523/120202681-b85c7e00-c1db-11eb-82f0-97af97bf4b08.png)
