@@ -8,7 +8,7 @@ Koneksi Database Mysql Ke PHP Judul <b>"SISTEM AKADEMIK"</b>
 3. Tabel Matakuliah
 4. Tabel Perkuliahan
 
-#Nip : nomor induk pegawai untuk patokan atau relasi ke tabel perkuliahan dan memberi nilai pada perkuliahan
+#Nip : nomor induk pegawai untuk patokan atau relasi dari tabel dosen ke tabel perkuliahan dan memberi nilai pada tabel perkuliahan
 
 <h1><b>Desain Database</b></h1>
 
